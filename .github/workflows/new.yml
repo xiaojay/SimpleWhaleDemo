@@ -2,7 +2,7 @@ name: CI2 to Docker Hub
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, master ]
 
 jobs:
 
